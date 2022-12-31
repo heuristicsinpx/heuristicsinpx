@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=900&size=33&duration=4000&pause=100&color=FFB7C5&center=true&vCenter=true&width=368&height=58&lines=%3C+Hello+World%F0%9F%91%8B%F0%9F%8F%BC%2F%3E;%3C+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1%F0%9F%91%8B%F0%9F%8F%BC%2F%3E;%3C+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1%F0%9F%91%8B%F0%9F%8F%BC%2F%3E;%3C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%9B%94%EB%93%9C%F0%9F%91%8B%F0%9F%8F%BC%2F%3E;%3C+Hola+World%F0%9F%91%8B%F0%9F%8F%BC%2F%3E" alt="Typing SVG" /></a>
 
 ## 👩🏻‍🎓About me
-I'm Pooja More, and I'm a University of Nottingham MSc Human-Computer Interaction student. I have a Bachelor's degree in IT Engineering and 1.5 years of work experience. During my UG course, I interned as a Frontend Developer and Graphic Designer for three months each. For a year, I worked as a full-time UI/UX Designer. I am currently looking for both volunteer and paid UX Designer/Research positions. My areas of interest include virtual reality, simulation, games, and creative web development. Check out my resume and portfolio here.</div>
+I'm Pooja More, and I'm a University of Nottingham MSc Human-Computer Interaction student. I have a Bachelor's degree in IT Engineering and 1.5 years of work experience. During my UG course, I interned as a Frontend Developer and Graphic Designer for three months each. For a year, I worked as a full-time UI/UX Designer. I am currently looking for both volunteer and paid UX Designer/Research positions. My areas of interest include virtual reality, simulation, games, and creative web development. Check out my [resume]() and [portfolio]().</div>
 
 ## 🤓Code Facts
 ![pmxdev's Stats](https://github-readme-stats.vercel.app/api?username=pmxdev&theme=dracula&show_icons=true&hide_border=true&count_private=true)
@@ -21,7 +21,7 @@ I'm Pooja More, and I'm a University of Nottingham MSc Human-Computer Interactio
 
 
 ## 📩Connect with me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-more-299b50150/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DeftNinjaaa)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
