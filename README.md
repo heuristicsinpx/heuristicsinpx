@@ -4,8 +4,8 @@
 I'm Pooja More, and I'm a University of Nottingham MSc Human-Computer Interaction student. I have a Bachelor's degree in IT Engineering and 1.5 years of work experience. During my UG course, I interned as a Frontend Developer and Graphic Designer for three months each. For a year, I worked as a full-time UI/UX Designer. I am currently looking for both volunteer and paid UX Designer/Research positions. My areas of interest include virtual reality, simulation, games, and creative web development. Check out my [resume]() and [portfolio]().</div>
 
 ## 🤓Code Facts
-![devxpm's Stats](https://github-readme-stats.vercel.app/api?username=devxpm&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-<!--![devxpm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxpm&theme=dracula&show_icons=true&hide_border=true&layout=compact)-->
+![devxpm's Stats](https://github-readme-stats.vercel.app/api?username=devxpm&theme=dracula&show_icons=true&hide_border=true&count_private=true)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devxpm&theme=dracula&hide_border=true&layout=compact)](https://github.com/devxpm/github-readme-stats)</br>
 ![devxpm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devxpm&theme=dracula&hide_border=true)
 
 ## ⚒️Toolbox
