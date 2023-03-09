@@ -25,3 +25,4 @@ I'm Pooja More, and I'm a University of Nottingham MSc Human-Computer Interactio
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/550979836160770048)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DeftNinjaaa)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sAvlJmWe)
+<a href='https://ko-fi.com/U7U5JCGHP' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee' /></a> 
