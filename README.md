@@ -4,7 +4,7 @@
 I'm Pooja More, a UX Designer/Researcher with an MSc in Human-Computer Interaction from the University of Nottingham. I have a Bachelor's degree in IT Engineering and 2 years of work experience. I interned as a Frontend Developer and Graphic Designer during my UG course for three months each. For a year, I worked as a full-time UI/UX Designer. I am currently seeking volunteer and paid UX Designer/Research positions. My areas of interest include virtual reality, simulation, games, and creative web development. Check out my [CV](https://drive.google.com/file/d/183cRr0ZqkNB1hxkdoo7GJSPpse265n8Y/view?usp=sharing) and [Portfolio](https://www.pooja-more.me). Connect with me on my [E-mail](mailto:poojamore.design@gmail.com) or [Twitter](https://twitter.com/pm_ixviii)</div>
 
 ## 🤓Code Facts
-![pixviii's Stats](https://github-readme-stats.vercel.app/api?username=pixviii&theme=dracula&show_icons=true&hide_border=true&count_private=true)  &nbsp; &nbsp; &nbsp;  ![pixviii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pixviii&theme=dracula&hide_border=true)
+![pixviii's Stats](https://github-readme-stats.vercel.app/api?username=pixviii&theme=dracula&show_icons=true&hide_border=true&count_private=true)  &nbsp;  ![pixviii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pixviii&theme=dracula&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixviii&theme=dracula&hide_border=true&layout=compact&card_width=990&disable_animations=false)](https://github.com/devxpm/github-readme-stats)</br>
 
 ## ⚒️Toolbox
