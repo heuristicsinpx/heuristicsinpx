@@ -22,10 +22,9 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 
 ## ✨ Fun Facts
 - I love learning new languages and exploring different cultures.
-- I'm a big fan of Marvel movies, especially Iron Man and Jarvis!
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=heuristicsinpx)
