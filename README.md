@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 
 ## ✨ Fun Facts
 - I love learning new languages and exploring different cultures.
+- I play various computer games in my free time.
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
-
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=heuristicsinpx)
