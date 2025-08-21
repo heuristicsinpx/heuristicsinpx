@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 - **Tools:** Figma, Adobe XD, Blender, Unity, Git
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heuristicsinpx&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/pooja-more98)
