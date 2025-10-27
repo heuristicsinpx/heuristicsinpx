@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/pixel-coffee.svg" alt="Animated 16-bit pixel coffee cup" width="120" />
-</p>
-
 <h2 align="center">Pooja More • Product Designer ✨ </h2>
 <h4 align="center">Developer-turned-Designer | UX Researcher | AR/VR Enthusiast | Gamification Lover</h4>
 
